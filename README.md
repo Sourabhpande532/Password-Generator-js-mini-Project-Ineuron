@@ -12,7 +12,7 @@
 
 ![HTML & CSS-Assighnment-project](https://img.shields.io/badge/Responsive-Ineuron--Assignment-blue)
 
-## [GO LIVE]()
+## [GO LIVE](https://js-mini-project-password-generator.netlify.app/)
 
 ## ![website](./Image/Project.png)
 
